@@ -1,3 +1,6 @@
+## URL for GitHub Page
+https://owja87.github.io/Count-Up-Timer/
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/owja87/Count-Up-Timer/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
